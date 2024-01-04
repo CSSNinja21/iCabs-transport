@@ -1,0 +1,105 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0%;
+}
+.float{
+  float: left;
+}
+.card {
+  padding: 20px 10px;
+  margin: 10px 10px 40px 30px;
+  text-align: center;
+
+}
+#courses{
+  text-align: center;
+}
+.clearfix{
+  clear: both;
+  display: table;
+}
+
+#Testnomials .carousel-control-next{
+  color: black;
+  
+
+  }
+  .cl{
+    padding: 11px;
+    width: 400px;
+    /* text-align: left; */
+  }
+.page{
+  padding: 5px;
+  
+}
+.center{
+  display: block;
+  text-align: -webkit-center;
+}
+.nav-item:hover{
+  background-color: blue;
+  
+}
+#navbarSupportedContent .navbar-nav .nav-link {
+  color: #07294D;
+}
+.table {
+  padding: 10px;
+  border: none;
+  border-bottom: 1px solid black;
+  
+  margin: 10px;
+}
+#services{
+  margin: 10px;
+}
+/* .Quote{
+  margin-left: 20px;
+  /* width: 100%; }*/
+
+
+input[type]{
+  width: 40% !important ;
+}
+#service{
+  width: 40% !important;
+}
+#cabs{
+  width: 88%;
+  border: none;
+  border-bottom: 1px solid black;
+}
+.blog{
+  background: #006db7;
+  margin-top: 10px;
+  padding: 19px;
+  color: #fff;
+  text-align: left !important ;
+}
+
+  /* border-radius: 3px;
+  color: #ffff;
+  display: inline-block;
+
+ 
+  height: 49px;
+  /* line-height: 1; */
+  /* padding: 19px 30px;
+  text-align: center;
+  font-family:serif; */
+/* .img{
+  display: flex !important ;
+  max-width: 150% !important ;
+  height: auto !important ;
+  margin-top: 50px;
+  
+}
+.images{
+  position: relative;
+  min-height: 1px;
+  padding-left: 10px;
+
+} */
